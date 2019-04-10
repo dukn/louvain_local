@@ -1,6 +1,6 @@
 # Phát hiện cộng đồng trên đồ thị cục bộ (Local graph community detection)
 ---
-
+Readme english here: [README_EN.md](README_EN.md)
 # Giới thiệu
 ---
 ## Đồ thị cục bộ
@@ -9,7 +9,7 @@
 - Tập cạnh là các cạnh giữa các đỉnh trong tập đỉnh.
 Trong phân tích mạng xã hội, đồ thị cục bộ thường dùng để phân tích cấu trúc cộng xung quanh của một người dùng.
 
-## Phương phá phát hiện cộng đồng Louvain
+## Phương pháp phát hiện cộng đồng Louvain
 Louvain là phương pháp phát hiện cộng đồng dựa trên cơ sở tối ưu hóa [Modularity](https://en.wikipedia.org/wiki/Modularity_%28networks%29) bằng giải thuật tham lam.
 Giải thuật của phương pháp Louvain được mô tả trong _Fast unfolding of communities in large networks, Vincent D Blondel, Jean-Loup Guillaume, Renaud Lambiotte, Renaud Lefebvre, Journal of Statistical Mechanics: Theory and Experiment 2008(10), P10008 (12pp)_.
 
