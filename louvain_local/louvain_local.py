@@ -11,7 +11,8 @@ import networkx as nx
 
 from .louvain_status import Status
 
-__author__ = """Duc Nguyen (ducnt4@vng.com.vn)"""
+__author__ = """Duy Nguyen (s8hhnguy@stud.uni-saarland.de) - First version
+Duc Nguyen (nguyentanduc96@gmail.com) -  developed version"""
 __PASS_MAX = -1
 __MIN = 0.0000001
 
