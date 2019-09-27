@@ -59,7 +59,7 @@ print (cluster)
 ```
 # Author
 ---
-Project was built by **Duy Nguyen** (s8hhnguy@stud.uni-saarland.de) in the first version and **Duc Nguyen** (nguyentanduc96@gmail.com) continued to develop the following versions.
+Project was build by **Duy Nguyen** (s8hhnguy@stud.uni-saarland.de) in the first version and **Duc Nguyen** (nguyentanduc96@gmail.com) continued to develop the following versions.
 
 # Refs
 ---
