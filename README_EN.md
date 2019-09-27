@@ -57,6 +57,9 @@ G = nx.Graph()
 clusters = louvain_local.get_clusters(G)
 print (cluster)
 ```
+# Author
+---
+Project is built by **Duy Nguyen** (s8hhnguy@stud.uni-saarland.de) in the first version and **Duc Nguyen** (nguyentanduc96@gmail.com) continued to develop the following versions.
 
 # Refs
 ---
