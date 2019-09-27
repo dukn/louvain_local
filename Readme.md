@@ -58,6 +58,9 @@ clusters = louvain_local.get_clusters(G)
 print (cluster)
 ```
 
+# Tác giả 
+Code được **Duy Nguyen** (s8hhnguy@stud.uni-saarland.de) xây dựng version đầu tiên sau đó được **Duc Nguyen** (nguyentanduc96@gmail.com) phát triển các version sau.
+
 # Tham Khảo
 ---
 [python-louvain](https://github.com/taynaud/python-louvain)
